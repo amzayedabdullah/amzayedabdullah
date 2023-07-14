@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amzayedabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="amzayedabdullah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amzayedabdullah" alt="amzayedabdullah" /></a> </p>
+/* <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amzayedabdullah" alt="amzayedabdullah" /></a> </p> */
 
 - 🔭 I’m currently working on UIU APP FORUM [https://www.facebook.com/uiuappf/](https://www.facebook.com/uiuappf/)
 
