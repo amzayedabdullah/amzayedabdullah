@@ -25,8 +25,8 @@ Passionate about:
 Currently learning:
 C#, .NET, Rust, SvelteKit, Go, AI Agents, LangChain
 
-Portfolio: https://amzayedabdullah.github.io/dev.zayed
-Email: a.m.zayedabdullah@gmail.com
+Portfolio: <a href="https://amzayedabdullah.github.io/dev.zayed" style="color:#00FF00;">Portfolio</a>
+Email: <a href="mailto:a.m.zayedabdullah@gmail.com" style="color:#00FF00;">a.m.zayedabdullah@gmail.com</a>
 </pre>
 
 ---
@@ -89,22 +89,20 @@ Email: a.m.zayedabdullah@gmail.com
 
 ## Experience
 <pre style="color:#00FF00;">
-Mechanical Designer, Manufacturer & ROV Co-Pilot
-- UIU Advanced Underwater Robotics & Automation Crew
+Mechanical Designer, Manufacturer & ROV Co-Pilot - <a href="https://uwra.uiu.ac.bd/index.php/about/" style="color:#00FF00;">UIU Advanced Underwater Robotics & Automation Crew</a>
 
-Treasurer - UIU APP Forum
+Treasurer - <a href="https://www.facebook.com/uiuappf/" style="color:#00FF00;">UIU APP Forum</a>
 • Managing finances, budgeting, event planning & logistics
 
-Former Head of Graphics - UIU APP Forum
+Former Head of Graphics - <a href="https://www.facebook.com/uiuappf/" style="color:#00FF00;">UIU APP Forum</a>
 • Led the design & media team
 • Produced motion graphics, posters, and social content
 • Worked with Adobe Suite, Blender & 3D tools
 
-Former Graphics Designer - UIU CSE Fest 2025
-[Facebook Link](https://www.facebook.com/share/p/1cqhLGYjUT/)
+Former Graphics Designer - <a href="https://www.facebook.com/share/p/1cqhLGYjUT/" style="color:#00FF00;">UIU CSE Fest 2025</a>
 
-Former Graphics Designer - UIU CSE Project Show
-[Facebook Link](https://www.facebook.com/share/p/14RQWABuuVd/)
+Former Graphics Designer - <a href=https://www.facebook.com/share/p/14RQWABuuVd/" style="color:#00FF00;">UIU Project Show</a>
+
 </pre>
 
 ---
@@ -126,7 +124,7 @@ Alhamdulillah for the growth, learning, and opportunity to contribute to somethi
 ---
 
 ## Connect With Me
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/amzayedabdullah">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45">
   </a>
