@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"><code style="color:#00FF00;">Welcome to My GitHub Profile</code></h1>
-<h3 align="center"><code style="color:#00FF00;">Software Developer | CSE Student | Tech Enthusiast</code></h3>
+<h3 align="center"><code style="color:#00FF00;">Software Developer | Tech Enthusiast</code></h3>
 
 ---
 
@@ -11,17 +11,19 @@
 <pre style="color:#00FF00;">
 Computer Science and Engineering student at United International University (UIU)
 Treasurer, UIU APP Forum (Former Head of Graphics)
+Mechanical Designer, Manufacturer & ROV Co-Pilot - UIU Advanced Underwater Robotics & Automation Crew
+Former Graphics Designer - UIU CSE Fest 2025
+Former Graphics Designer - UIU CSE Project Show (Summer'23 - Fall'24)
 
 Passionate about:
-• Software Development
-• Full-Stack Web Development
-• System Programming & Automation
-• IoT & Embedded Systems (ESP32, Arduino)
-• Mobile App Development
-• Motion Graphics & Content Creation
+• Software & System Development
+• Full-Stack Web, Mobile, and Embedded Systems
+• AI/ML, Deep Learning, and Automation
+• Creative & Technical 3D Design (Blender / CAD)
+• Motion Graphics, VFX & Content Creation
 
 Currently learning:
-C#, .NET, Rust, SvelteKit, DevOps
+C#, .NET, Rust, SvelteKit, Go, AI Agents, LangChain
 
 Portfolio: https://amzayedabdullah.github.io/dev.zayed
 Email: a.m.zayedabdullah@gmail.com
@@ -33,8 +35,20 @@ Email: a.m.zayedabdullah@gmail.com
 
 ### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,python,java,js,php,c,rust" />
+  <img src="https://skillicons.dev/icons?i=cs,python,java,js,ts,php,c,go,dart,rust" />
 </p>
+
+### Machine Learning / AI
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+<pre style="color:#00FF00;">
+• Deep Learning (CNN, RNN, Transfer Learning)
+• Scikit-Learn (ML Pipelines, Classical ML)
+• LangChain (LLM Apps, RAG, Agents)
+• Data Processing, Model Training & Optimization
+</pre>
 
 ### Frontend / UI
 <p align="left">
@@ -46,32 +60,67 @@ Email: a.m.zayedabdullah@gmail.com
   <img src="https://skillicons.dev/icons?i=dotnet,laravel,spring,fastapi,nodejs,express,mongodb,mysql" />
 </p>
 
-### Cloud & Tools
+### Cloud & DevOps Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,postman,linux,git" />
 </p>
 
-### Creative & Design Tools
+### Embedded & Hardware
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ae,pr,ps,ai" />
+  <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
+<pre style="color:#00FF00;">
+• ESP32, ESP32-CAM, GSM Modules, etc.
+• IoT System Design & Hardware Integration
+</pre>
 
-### Tools & Platforms
+### Creative, 3D & CAD Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,linux,arduino" />
+  <img src="https://skillicons.dev/icons?i=ae,pr,ps,ai,blender" />
 </p>
+<pre style="color:#00FF00;">
+• Blender (3D Modeling, Animation, Rendering)
+• Fusion 360 (CAD, Mechanical Design)
+• SolidWorks (Engineering Designs)
+• Adobe Creative Suite (AE, PR, PS, AI)
+</pre>
 
 ---
 
 ## Experience
 <pre style="color:#00FF00;">
-Treasurer – UIU APP Forum
+Mechanical Designer, Manufacturer & ROV Co-Pilot
+- UIU Advanced Underwater Robotics & Automation Crew
+
+Treasurer - UIU APP Forum
 • Managing finances, budgeting, event planning & logistics
 
-Former Head of Graphics – UIU APP Forum
-• Led the graphics & UI/UX team
-• Designed digital content, posters, event branding
-• Worked with Adobe Suite & creative tools
+Former Head of Graphics - UIU APP Forum
+• Led the design & media team
+• Produced motion graphics, posters, and social content
+• Worked with Adobe Suite, Blender & 3D tools
+
+Former Graphics Designer - UIU CSE Fest 2025
+[Facebook Link](https://www.facebook.com/share/p/1cqhLGYjUT/)
+
+Former Graphics Designer - UIU CSE Project Show
+[Facebook Link](https://www.facebook.com/share/p/14RQWABuuVd/)
+</pre>
+
+---
+
+## Recognition & Achievements
+<pre style="color:#00FF00;">
+Being part of UIU Mariner as a Mechanical Designer, Manufacturer & ROV Co-Pilot has been transformative.
+We achieved:
+
+• MATE ROV Competition 2025:
+  ▪️ Ranked 5th in the World
+  ▪️ Ranked 1st in Asia
+  ▪️ Ranked 1st in Bangladesh
+  ▪️ Won the World Champion title in "Technical Documentation."
+
+Alhamdulillah for the growth, learning, and opportunity to contribute to something bigger than myself.
 </pre>
 
 ---
