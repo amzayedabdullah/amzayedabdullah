@@ -8,6 +8,7 @@
 ---
 
 ## About Me
+<pre style="color:#00FF00;">
 Computer Science and Engineering student at United International University (UIU)
 Treasurer, UIU APP Forum (Former Head of Graphics)
 
@@ -24,6 +25,7 @@ C#, .NET, Rust, SvelteKit, DevOps
 
 Portfolio: https://amzayedabdullah.github.io/dev.zayed
 Email: a.m.zayedabdullah@gmail.com
+</pre>
 
 ---
 
@@ -62,15 +64,15 @@ Email: a.m.zayedabdullah@gmail.com
 ---
 
 ## Experience
-
+<pre style="color:#00FF00;">
 Treasurer – UIU APP Forum
 • Managing finances, budgeting, event planning & logistics
 
 Former Head of Graphics – UIU APP Forum
 • Led the graphics & UI/UX team
-• Designed digital content, posters, and event branding
+• Designed digital content, posters, event branding
 • Worked with Adobe Suite & creative tools
-
+</pre>
 
 ---
 
