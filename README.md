@@ -12,10 +12,19 @@
 <pre style="color:#00FF00;">
 Computer Science and Engineering student at United International University (UIU)
 Treasurer, UIU APP Forum (Former Head of Graphics)
-Passionate about Software Development, Full-Stack Web Development, System Programming, IoT,
-Mobile App Development and Embedded Systems
-Currently learning C#, .NET, Rust, SvelteKit
-Portfolio: https://amzayedabdullah.github.io/dev.zayed/
+
+Passionate about:
+• Software Development
+• Full-Stack Web Development
+• System Programming & Automation
+• IoT & Embedded Systems (ESP32, Arduino)
+• Mobile App Development
+• Motion Graphics & Content Creation
+
+Currently learning:
+C#, .NET, Rust, SvelteKit, DevOps
+
+Portfolio: https://amzayedabdullah.github.io/dev.zayed
 Email: a.m.zayedabdullah@gmail.com
 </pre>
 
@@ -25,22 +34,27 @@ Email: a.m.zayedabdullah@gmail.com
 
 ### 🖥️ Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,python,java,js,php" />
+  <img src="https://skillicons.dev/icons?i=cs,python,java,js,php,c,rust" />
 </p>
 
 ### 🎨 Frontend / UI
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,flutter,html,css,figma,svelte,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,svelte,nextjs,flutter,html,css,figma" />
 </p>
 
 ### 🛠 Backend / Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,spring,fastapi,nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=dotnet,laravel,spring,fastapi,nodejs,express,mongodb,mysql" />
 </p>
 
 ### ☁ Cloud & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,aws,vercel,postman" />
+</p>
+
+### 🎥 Creative & Design Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ae,pr,ps,ai" />
 </p>
 
 ### 🧰 Tools & Platforms
@@ -53,20 +67,13 @@ Email: a.m.zayedabdullah@gmail.com
 ## 📌 Experience
 <pre style="color:#00FF00;">
 Treasurer – UIU APP Forum
-Managing financial records, budgets, and supporting club events and workshops
+• Managing finances, budgeting, event planning & logistics
 
 Former Head of Graphics – UIU APP Forum
-Led the graphics team, designed banners, posters, and digital content
-Worked with UI/UX and design tools
+• Led the graphics & UI/UX team
+• Designed digital content, posters, event branding
+• Worked with Adobe Suite & creative tools
 </pre>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amzayedabdullah&show_icons=true&theme=chartreuse-dark" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amzayedabdullah&layout=compact&theme=chartreuse-dark" />
-</p>
 
 ---
 
