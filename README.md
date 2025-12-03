@@ -1,4 +1,3 @@
-<!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?size=28&duration=3500&color=00FF00&center=true&vCenter=true&width=700&lines=Hi,+I'm+A.+M.+Zayed+Abdullah;Software+Developer+%7C+CSE+Student;Always+Learning+%26+Building" />
 </p>
@@ -8,8 +7,7 @@
 
 ---
 
-## 🔰 About Me
-<pre style="color:#00FF00;">
+## About Me
 Computer Science and Engineering student at United International University (UIU)
 Treasurer, UIU APP Forum (Former Head of Graphics)
 
@@ -26,58 +24,57 @@ C#, .NET, Rust, SvelteKit, DevOps
 
 Portfolio: https://amzayedabdullah.github.io/dev.zayed
 Email: a.m.zayedabdullah@gmail.com
-</pre>
 
 ---
 
-## 🧠 Skills & Technologies
+## Skills & Technologies
 
-### 🖥️ Programming Languages
+### Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,python,java,js,php,c,rust" />
 </p>
 
-### 🎨 Frontend / UI
+### Frontend / UI
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,svelte,nextjs,flutter,html,css,figma" />
 </p>
 
-### 🛠 Backend / Frameworks
+### Backend / Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dotnet,laravel,spring,fastapi,nodejs,express,mongodb,mysql" />
 </p>
 
-### ☁ Cloud & Tools
+### Cloud & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,aws,vercel,postman" />
 </p>
 
-### 🎥 Creative & Design Tools
+### Creative & Design Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ae,pr,ps,ai" />
 </p>
 
-### 🧰 Tools & Platforms
+### Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,linux,arduino" />
 </p>
 
 ---
 
-## 📌 Experience
-<pre style="color:#00FF00;">
+## Experience
+
 Treasurer – UIU APP Forum
 • Managing finances, budgeting, event planning & logistics
 
 Former Head of Graphics – UIU APP Forum
 • Led the graphics & UI/UX team
-• Designed digital content, posters, event branding
+• Designed digital content, posters, and event branding
 • Worked with Adobe Suite & creative tools
-</pre>
+
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/amzayedabdullah">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45">
