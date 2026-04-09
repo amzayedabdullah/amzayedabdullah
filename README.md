@@ -1,32 +1,37 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=28&duration=3500&color=00FF00&center=true&vCenter=true&width=700&lines=Hi,+I'm+A.+M.+Zayed+Abdullah;Software+Developer+%7C+CSE+Student;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.demolab.com?size=28&duration=3500&color=00FF00&center=true&vCenter=true&width=700&lines=Hi,+I'm+A.+M.+Zayed+Abdullah;Software+Engineer+%7C+CSE+Student;Building+Real-World+Tech+Solutions" />
 </p>
 
 <h1 align="center"><code style="color:#00FF00;">Welcome to My GitHub Profile</code></h1>
-<h3 align="center"><code style="color:#00FF00;">Software Developer | Tech Enthusiast</code></h3>
+<h3 align="center"><code style="color:#00FF00;">Software Engineer | UI/UX Designer | Tech Enthusiast</code></h3>
 
 ---
 
 ## About Me
 <pre style="color:#00FF00;">
-Computer Science and Engineering student at United International University (UIU)
-Treasurer, UIU APP Forum (Former Head of Graphics)
-Mechanical Designer, Manufacturer & ROV Co-Pilot - UIU Advanced Underwater Robotics & Automation Crew
-Former Graphics Designer - UIU CSE Fest 2025
-Former Graphics Designer - UIU CSE Project Show (Summer'23 - Fall'24)
+CSE undergraduate at United International University (UIU)
+
+I build practical solutions by combining software and hardware systems.
+Experienced in competitive project environments, teamwork, and real-world problem solving.
+
+Key highlight:
+• MATE ROV World Competition 2025
+  - 5th place globally 🌍
+  - 1st in Asia 🏆
+  - Technical Documentation World Champion 🥇
 
 Passionate about:
-• Software & System Development
-• Full-Stack Web, Mobile, and Embedded Systems
-• AI/ML, Deep Learning, and Automation
-• Creative & Technical 3D Design (Blender / CAD)
-• Motion Graphics, VFX & Content Creation
+• Full-Stack Development & System Design
+• AI/ML & Intelligent Systems
+• Embedded Systems & IoT
+• 3D Design & Engineering (CAD / Blender)
+• Creative Media, Motion Graphics & VFX
 
-Currently learning:
-C#, .NET, Rust, SvelteKit, Go, AI Agents, LangChain
+Currently exploring:
+C#, .NET, Rust, Go, AI Agents, LangChain
 
-Portfolio: <a href="https://amzayedabdullah.github.io/dev.zayed" style="color:#00FF00;">Portfolio</a>
-Email: <a href="mailto:a.m.zayedabdullah@gmail.com" style="color:#00FF00;">a.m.zayedabdullah@gmail.com</a>
+Portfolio: https://amzayedabdullah.vercel.app
+Email: a.m.zayedabdullah@gmail.com
 </pre>
 
 ---
@@ -35,34 +40,28 @@ Email: <a href="mailto:a.m.zayedabdullah@gmail.com" style="color:#00FF00;">a.m.z
 
 ### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,python,java,js,ts,php,c,go,dart,rust" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,go,php,bash,html,css,sql" />
 </p>
 
-### Machine Learning / AI
+### Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,fastapi" />
+</p>
+
+### AI / Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,python" />
 </p>
 <pre style="color:#00FF00;">
-• Deep Learning (CNN, RNN, Transfer Learning)
-• Scikit-Learn (ML Pipelines, Classical ML)
-• LangChain (LLM Apps, RAG, Agents)
-• Data Processing, Model Training & Optimization
+• Deep Learning (CNN, Transfer Learning)
+• Classical ML (Scikit-Learn)
+• TF-IDF, Cosine Similarity Models
+• Data Processing & Model Optimization
 </pre>
 
-### Frontend / UI
+### Databases & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,svelte,nextjs,flutter,html,css,figma" />
-</p>
-
-### Backend / Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,laravel,spring,fastapi,nodejs,express,mongodb,mysql" />
-</p>
-
-### Cloud & DevOps Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,postman,linux,git" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,docker,git,linux,vercel" />
 </p>
 
 ### Embedded & Hardware
@@ -70,55 +69,90 @@ Email: <a href="mailto:a.m.zayedabdullah@gmail.com" style="color:#00FF00;">a.m.z
   <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 <pre style="color:#00FF00;">
-• ESP32, ESP32-CAM, GSM Modules, etc.
-• IoT System Design & Hardware Integration
+• ESP32, IoT Systems
+• Hardware-Software Integration
+• ROV Systems & Electronics Coordination
 </pre>
 
-### Creative, 3D & CAD Tools
+### Design, 3D & Creative Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ae,pr,ps,ai,blender" />
+  <img src="https://skillicons.dev/icons?i=ae,pr,ps,ai,blender,figma" />
 </p>
 <pre style="color:#00FF00;">
-• Blender (3D Modeling, Animation, Rendering)
-• Fusion 360 (CAD, Mechanical Design)
-• SolidWorks (Engineering Designs)
-• Adobe Creative Suite (AE, PR, PS, AI)
+• Blender (3D Modeling & Rendering)
+• Fusion 360 & SolidWorks (Mechanical Design)
+• Adobe Creative Suite
+• UI/UX Design (Figma)
 </pre>
 
 ---
 
 ## Experience
 <pre style="color:#00FF00;">
-Mechanical Designer, Manufacturer & ROV Co-Pilot - <a href="https://uwra.uiu.ac.bd/index.php/about/" style="color:#00FF00;">UIU Advanced Underwater Robotics & Automation Crew</a>
+Mechanical Member, ROV Co-Pilot & Head of Graphics
+UIU Mariner (UIU AURA Crew) | 2024 - 2026
+• Built and integrated ROV systems (Archeleon & Scorpion chassis)
+• Worked on mechanical + electronic coordination
+• Competed internationally in MATE ROV 2025
 
-Treasurer - <a href="https://www.facebook.com/uiuappf/" style="color:#00FF00;">UIU APP Forum</a>
-• Managing finances, budgeting, event planning & logistics
+Treasurer | UIU APP Forum | 2025 - Present
+• Managing finance, budgeting & event operations
 
-Former Head of Graphics - <a href="https://www.facebook.com/uiuappf/" style="color:#00FF00;">UIU APP Forum</a>
-• Led the design & media team
-• Produced motion graphics, posters, and social content
-• Worked with Adobe Suite, Blender & 3D tools
+Head of Graphics | UIU APP Forum | 2024 - 2025
+• Led creative team, branding & digital content production
 
-Former Graphics Designer - <a href="https://www.facebook.com/share/p/1cqhLGYjUT/" style="color:#00FF00;">UIU CSE Fest 2025</a>
+Co-Head of Graphics | UIU APP Forum | 2023 - 2024
 
-Former Graphics Designer - <a href=https://www.facebook.com/share/p/14RQWABuuVd/" style="color:#00FF00;">UIU Project Show</a>
+Graphics Designer | UIU CSE Fest 2025
+• Designed full event branding & visual identity
 
+Graphics Designer | UIU CSE Project Show | 2023 - 2024
+• Developed promotional & exhibition materials
+
+Associate Graphics Designer | UIU APP Forum | 2022 - 2023
 </pre>
 
 ---
 
-## Recognition & Achievements
+## Projects
 <pre style="color:#00FF00;">
-Being part of UIU Mariner as a Mechanical Designer, Manufacturer & ROV Co-Pilot has been transformative.
-We achieved:
+BeyondClass (2025)
+Tech: Next.js, Supabase, PostgreSQL
+• Platform for practical skill learning
 
-• MATE ROV Competition 2025:
-  ▪️ Ranked 5th in the World
-  ▪️ Ranked 1st in Asia
-  ▪️ Ranked 1st in Bangladesh
-  ▪️ Won the World Champion title in "Technical Documentation."
+ELMS UIU (2025)
+Tech: Next.js, Tailwind CSS
+• Learning management system
 
-Alhamdulillah for the growth, learning, and opportunity to contribute to something bigger than myself.
+CINEIQ (2025)
+Tech: Python, AI/ML
+• Movie recommendation system using TF-IDF & cosine similarity
+</pre>
+
+---
+
+## Achievements
+<pre style="color:#00FF00;">
+MATE ROV World Competition 2025
+• 5th in the World
+• 1st in Asia
+• Technical Documentation World Champion
+
+GP Academy x CISCO Quiz Competition (2023)
+• 1st - UIU Cybersmart
+• 2nd - UIU Python
+• 3rd - UIU IoT
+</pre>
+
+---
+
+## Certifications
+<pre style="color:#00FF00;">
+• Cisco DevNet Associate (2026)
+• Cybersecurity Essentials (Cisco)
+• CCNA: Introduction to Networks
+• Introduction to IoT
+• Introduction to Cybersecurity
 </pre>
 
 ---
@@ -128,10 +162,10 @@ Alhamdulillah for the growth, learning, and opportunity to contribute to somethi
   <a href="https://linkedin.com/in/amzayedabdullah">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45">
   </a>
+  <a href="https://github.com/amzayedabdullah">
+    <img src="https://skillicons.dev/icons?i=github" width="45">
+  </a>
   <a href="https://facebook.com/amzayed.abdullah">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="45">
-  </a>
-  <a href="https://instagram.com/amzayedabdullah">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="45">
   </a>
 </p>
